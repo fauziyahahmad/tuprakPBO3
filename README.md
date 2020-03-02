@@ -1,2 +1,2 @@
 # tuprakPBO3
-Tugas Praktikum Pemrograman Berorientasi Objek
+Tugas 3 Praktikum Pemrograman Berorientasi Objek
